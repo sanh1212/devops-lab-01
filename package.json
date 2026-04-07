@@ -1,0 +1,12 @@
+{
+  "name": "devops-lab-01",
+  "version": "1.0.0",
+  "description": "DevOps Lab 07 - GitHub Workflow, Pull Request, CI & Branch Protection",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
