@@ -1,0 +1,1 @@
+{"name":"calculator","version":"1.0.0","description":"Simple calculator with unit tests","main":"src/calculator.js","scripts":{"test":"jest"},"keywords":[],"author":"","license":"ISC","devDependencies":{"jest":"^29.5.0"}}
